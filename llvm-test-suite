@@ -1,0 +1,6 @@
+xpu
+compile : 301 / 500
+execute : 197 / 500
+rv-gcc
+compile : 343 / 500
+execute : 146 / 500
